@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "RixBeeDesk Pixel",
+  "displayName": "RixBeeDesk-Pixel",
   "brand": {
     "id": "github.com_AIgorix-RixBeeDesk",
     "displayName": "RixBeeDesk-gtm-pixel",
