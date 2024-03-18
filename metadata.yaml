@@ -15,5 +15,5 @@
 homepage: "https://www.rixengine.com"
 documentation: "https://crs.rixbeedesk.com/help/tracking"
 versions:
-  - sha: 8e193f3cda836a51243f1c4845df9b0946c3d6ff
+  - sha: 486473a328e2332412c12c12a27fb3bf8ed66b19
     changeNotes: Initial Version
